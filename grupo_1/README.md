@@ -102,3 +102,4 @@ Cronômetro
 Recipiente para medição de volume
 Régua
 
+![codecogseqn](https://user-images.githubusercontent.com/42394047/44622024-e83a0280-a886-11e8-8513-3be9f223b839.gif)
